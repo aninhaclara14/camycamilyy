@@ -6,3 +6,4 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
 camily.goncalves.freitas@escola.pr.gov.br
+![](https://media.tenor.com/2BUoFBHuxaIAAAAM/happy-boxing.gif)
